@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a10d49a3-83fa-4541-90a1-d3b5fa2a4995" name="Default Changelist" comment="" />
+    <list default="true" id="a10d49a3-83fa-4541-90a1-d3b5fa2a4995" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YfU79cJB5nUEX4TE6s0wzbNWBk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/untitled8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../untitled8" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -55,14 +61,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1583523419016" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1583578842416">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1586702593009">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583578842416" />
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1583955199471">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586702593009" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1586702548052">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1583955199471" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586702548052" />
     <state x="303" y="15" width="672" height="678" key="search.everywhere.popup" timestamp="1583526516736">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
